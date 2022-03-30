@@ -8,7 +8,7 @@ My name is **Tiago Correia** and I'm a hobbyist in computers, very passionate ab
  <br>
 
 - 🌱 I’m currently learning **SpringBoot** 
-- 🔭 I’m currently working on **Java** and **JavaFX** 
+- 🔭 I’m currently working on personal projects with **Java** and **JavaFX** 
 - 📫 How to reach me **tiagorcorreia87@gmail.com** 
 - 💬 Ask me about **Java**, **Linux**, **Git/Github**
 - 👯 I’m looking forward to contribute to **Open Source Projects**.
