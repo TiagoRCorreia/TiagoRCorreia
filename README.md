@@ -3,15 +3,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TiagoRCorreia&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24" />  
 
 ### Hello, World! 👋
-My name is **Tiago Correia** and I'm a hobbyist in computers, very passionate about opensource and I love the way how opensource is providing huge opportunities for new developers. I'm learning a lot new things in the tech and my interests incline towards backend development and mobile. However anything else along the way that grabs my interest is welcome in every way. 
-  
- <br>
+My name is Tiago Correia, and I'm a hobbyist in computers very passionate about open source and love the way how open source is providing opportunities for new developers. I'm learning many new things in tech my interests incline toward backend development and mobile. However, anything else along the way that grabs my interest is welcome in every way.
+<br>
 
-- 🌱 I’m currently learning **Rust** 
-- 🔭 I’m currently working on personal projects with **Rust** 
-- 📫 How to reach me **tiagorcorreia87@gmail.com** 
-- 💬 Ask me about **Java**, **Linux**, **Git/Github**
-- 👯 I’m looking forward to contribute to **Open Source Projects**.
+- 🌱 I’m currently learning **Rust**. 
+- 🔭 I’m currently working on personal projects with **Rust**. 
+- 📫 How to reach me **tiagorcorreia87@gmail.com**. 
+- 💬 Ask me about **Java**, **Linux**, **Git/Github**.
+- 👯 I’m looking forward to contributing to Open Source Projects.
   
 <br>
   
